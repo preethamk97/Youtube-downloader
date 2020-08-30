@@ -8,9 +8,9 @@ Enter the folder to save (eg C:/Users/Preetham/) :
 
 C:/Users/Preetham/Desktop/
 
-Enter the file name for the download file (eg: my_video) : https://www.youtube.com/watch?v=7sawZxUS56s
+Enter the file name for the download file (eg: my_video) : https://www.youtube.com/watch?v=3yR2ebQpIDE
 
-Enter the youtube video url : https://www.youtube.com/watch?v=7sawZxUS56s
+Enter the youtube video url : https://www.youtube.com/watch?v=3yR2ebQpIDE
 
 Enter the format VIDEO or AUDIO : VIDEO
 Downloading......
