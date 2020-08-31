@@ -10,7 +10,7 @@ try :
 except Exception as e:
     print("Modules in the pytube are missing{}".format(e))
 
-print("Welcome to preethams youtube downloader program")
+print("\n*****************Welcome to preethams youtube downloader program*****************\n")
 
 def download_the_video():
     print("Enter the folder to save (eg C:/Users/Preetham/) : ")
